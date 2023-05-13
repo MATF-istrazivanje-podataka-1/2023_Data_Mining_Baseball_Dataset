@@ -17,6 +17,13 @@
             </JupyterConnectionParameters>
           </value>
         </entry>
+        <entry key="$USER_HOME$/PycharmProjects/dsProject2/.idea/dsProject2.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/.idea/2023_Data_Mining_Baseball_Dataset.iml">
           <value>
             <JupyterConnectionParameters>
