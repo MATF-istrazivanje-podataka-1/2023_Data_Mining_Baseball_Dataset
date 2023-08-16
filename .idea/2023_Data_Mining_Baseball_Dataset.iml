@@ -6,5 +6,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="dsProject1" />
     <orderEntry type="module" module-name="dsProject2" />
+    <orderEntry type="module" module-name="dsProject3" />
+    <orderEntry type="module" module-name="dsProject4" />
   </component>
 </module>
